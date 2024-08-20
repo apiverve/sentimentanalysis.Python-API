@@ -75,7 +75,8 @@ print(result)
     ],
     "sentimentText": "positive",
     "sentiment": 3
-  }
+  },
+  "code": 200
 }
 ```
 
